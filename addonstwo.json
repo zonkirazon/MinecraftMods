@@ -22,6 +22,14 @@
      "imageUrl": "https://raw.githubusercontent.com/zonkirazon/MinecraftMods/main/6.png",
       "directModUrl": "https://raw.githubusercontent.com/zonkirazon/MinecraftMods/main/Siren_Head_Return.mcaddon"
     },
+	  {
+     "imageUrl": "https://raw.githubusercontent.com/zonkirazon/MinecraftMods/main/16.png",
+      "directModUrl": "https://raw.githubusercontent.com/zonkirazon/MinecraftMods/main/Siren_Head_Return.mcaddon"
+    },
+	   {
+     "imageUrl": "https://raw.githubusercontent.com/zonkirazon/MinecraftMods/main/28.png",
+      "directModUrl": "https://raw.githubusercontent.com/zonkirazon/MinecraftMods/main/BMC_Add-On_4-25.mcaddon"
+    },
 	 
 	  {
      "imageUrl": "https://raw.githubusercontent.com/zonkirazon/MinecraftMods/main/26.png",
@@ -42,6 +50,7 @@
     }
   ]
 }
+
 
 
 
