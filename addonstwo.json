@@ -1,13 +1,14 @@
 {
   "modList": [
+	   {
+     "imageUrl": "https://raw.githubusercontent.com/zonkirazon/MinecraftMods/main/9.png",
+      "directModUrl": "https://raw.githubusercontent.com/zonkirazon/MinecraftMods/main/freddycraft-sotm-update.mcaddon"
+    },
     {
       "imageUrl": "https://raw.githubusercontent.com/zonkirazon/MinecraftMods/main/41.png",
       "directModUrl": "https://raw.githubusercontent.com/zonkirazon/MinecraftMods/main/fast-fredbearFinal.mcaddon"
     },
-    {
-     "imageUrl": "https://raw.githubusercontent.com/zonkirazon/MinecraftMods/main/9.png",
-      "directModUrl": "https://raw.githubusercontent.com/zonkirazon/MinecraftMods/main/freddycraft-sotm-update.mcaddon"
-    },
+   
 	{
      "imageUrl": "https://raw.githubusercontent.com/zonkirazon/MinecraftMods/main/8.png",
       "directModUrl": "https://raw.githubusercontent.com/zonkirazon/MinecraftMods/main/GRANNY%20%20V1.8%20MCPE%20%40trashycraft.mcworld"
@@ -38,5 +39,6 @@
     }
   ]
 }
+
 
 
